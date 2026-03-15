@@ -3,6 +3,14 @@
 using namespace std;
 typedef long long ll;
 
+/*
+
+输入：
+5
+5 3 2 4 1
+
+*/
+
 void solve()
 {
     int n;
